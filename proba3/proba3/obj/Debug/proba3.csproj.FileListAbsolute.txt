@@ -1,0 +1,8 @@
+C:\Users\mila.bogovac\source\repos\proba3\proba3\bin\Debug\proba3.exe.config
+C:\Users\mila.bogovac\source\repos\proba3\proba3\bin\Debug\proba3.exe
+C:\Users\mila.bogovac\source\repos\proba3\proba3\bin\Debug\proba3.pdb
+C:\Users\mila.bogovac\source\repos\proba3\proba3\obj\Debug\proba3.csproj.AssemblyReference.cache
+C:\Users\mila.bogovac\source\repos\proba3\proba3\obj\Debug\proba3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mila.bogovac\source\repos\proba3\proba3\obj\Debug\proba3.csproj.CoreCompileInputs.cache
+C:\Users\mila.bogovac\source\repos\proba3\proba3\obj\Debug\proba3.exe
+C:\Users\mila.bogovac\source\repos\proba3\proba3\obj\Debug\proba3.pdb

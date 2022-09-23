@@ -1,0 +1,8 @@
+C:\Users\mila.bogovac\source\repos\Proba2\Proba2\bin\Debug\Proba2.exe.config
+C:\Users\mila.bogovac\source\repos\Proba2\Proba2\bin\Debug\Proba2.exe
+C:\Users\mila.bogovac\source\repos\Proba2\Proba2\bin\Debug\Proba2.pdb
+C:\Users\mila.bogovac\source\repos\Proba2\Proba2\obj\Debug\Proba2.csproj.AssemblyReference.cache
+C:\Users\mila.bogovac\source\repos\Proba2\Proba2\obj\Debug\Proba2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mila.bogovac\source\repos\Proba2\Proba2\obj\Debug\Proba2.csproj.CoreCompileInputs.cache
+C:\Users\mila.bogovac\source\repos\Proba2\Proba2\obj\Debug\Proba2.exe
+C:\Users\mila.bogovac\source\repos\Proba2\Proba2\obj\Debug\Proba2.pdb
