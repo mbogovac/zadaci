@@ -18,7 +18,8 @@ namespace proba3
 
             for (int i = 1; i <= input; i++)
             {
-                faktorijel = faktorijel * i;
+                //faktorijel = faktorijel * i;
+                faktorijel *= i;
             }
 
             Console.WriteLine("faktorijel je: " + faktorijel);
